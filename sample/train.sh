@@ -1,6 +1,6 @@
 #!/bin/bash
 
-homedir="your_home_directory"
+homedir=$HOME
 
 gene2idfile="${homedir}/sample/gene2ind.txt"
 cell2idfile="${homedir}/sample/cell2ind.txt"
